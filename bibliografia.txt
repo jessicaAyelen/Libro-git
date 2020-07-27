@@ -1,1 +1,5 @@
-Chacon, S. and McCullough, M. Versiones control with git. O'Reilly.
+ HEAD
+Chacon, S. and McCullough, M. Versiones control with git. O'Reilly
+-Scott Chacon and Ben Staub. Pro Git Apress. 
+-Ryan Hodson. Ry's git tutorial. Smashowords (2014)
+ bibliografia
